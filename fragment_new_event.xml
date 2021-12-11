@@ -53,7 +53,7 @@
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="Event place:"
+            android:text="Event data:"
             android:layout_marginLeft="10dp"
             android:textColor="@color/black"/>
         <EditText
